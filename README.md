@@ -1,5 +1,8 @@
 # 🌌 Retrowave Portfolio
 
+<img width="1650" height="865" alt="{5C8C66F2-6CBD-45D8-BAA5-D64B14DA3D2B}" src="https://github.com/user-attachments/assets/3196b592-09f0-4369-8890-aae3fe3540d0" />
+<img width="1706" height="900" alt="{ACC720EE-066D-4001-A84F-8E42E4488C07}" src="https://github.com/user-attachments/assets/d961a4bf-2cf6-4551-85bb-0e03fd58866c" />
+
 Portal centralizado de proyectos personales con estética **retrowave/synthwave**. Construido con React, TypeScript y Tailwind CSS, incluye animaciones suaves, diseño responsivo y paleta de colores neón sobre fondo oscuro.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
