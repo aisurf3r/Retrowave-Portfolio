@@ -95,4 +95,4 @@ Edita el array `projects` en `src/components/ProjectGrid.tsx` para añadir tus p
 
 ## 📄 Licencia
 
-MIT © Tu Nombre
+MIT © Aisurf3r
