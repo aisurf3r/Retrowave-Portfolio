@@ -9,7 +9,7 @@ const Footer = () => (
   <footer className="border-t border-border py-12 px-6" role="contentinfo">
     <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
       <p className="text-muted-foreground text-sm">
-        © {new Date().getFullYear()} Openhub. Todos los derechos reservados.
+        © {new Date().getFullYear()} Openhub Todos los derechos reservados.
       </p>
       <nav aria-label="Redes sociales" className="flex gap-4">
         {socialLinks.map(({ icon: Icon, href, label }) => (
