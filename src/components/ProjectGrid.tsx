@@ -49,6 +49,46 @@ const projects: Project[] = [
     github: "https://github.com",
     demo: "https://vercel.app",
   },
+  {
+    title: "CloudVault",
+    description: "Almacenamiento seguro en la nube con cifrado end-to-end y sincronización en tiempo real.",
+    tags: ["AWS S3", "Node.js", "React", "Encryption"],
+    github: "https://github.com",
+    demo: "https://vercel.app",
+  },
+  {
+    title: "TaskFlow",
+    description: "Gestor de tareas colaborativo con tableros Kanban y notificaciones en tiempo real.",
+    tags: ["Next.js", "Prisma", "PostgreSQL", "WebSockets"],
+    github: "https://github.com",
+    demo: "https://vercel.app",
+  },
+  {
+    title: "CodeSnap",
+    description: "Generador de capturas de código con temas personalizables y exportación en alta resolución.",
+    tags: ["TypeScript", "Canvas API", "Vite"],
+    github: "https://github.com",
+  },
+  {
+    title: "BotForge",
+    description: "Plataforma no-code para crear chatbots inteligentes con integración a múltiples canales.",
+    tags: ["Python", "FastAPI", "OpenAI", "React"],
+    github: "https://github.com",
+    demo: "https://vercel.app",
+  },
+  {
+    title: "MetricsPulse",
+    description: "Dashboard de métricas de rendimiento para aplicaciones web con alertas configurables.",
+    tags: ["React", "Grafana", "Prometheus", "Docker"],
+    github: "https://github.com",
+    demo: "https://vercel.app",
+  },
+  {
+    title: "AuthShield",
+    description: "Microservicio de autenticación con OAuth2, MFA y gestión de sesiones seguras.",
+    tags: ["Rust", "JWT", "Redis", "gRPC"],
+    github: "https://github.com",
+  },
 ];
 
 const tagColors = [
