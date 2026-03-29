@@ -9,7 +9,7 @@ const HeroSection = () => (
         Portafolio de Desarrollo
       </p>
       <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-up opacity-0 gradient-text">
-        DevPortal
+        OpenHub
       </h1>
       <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed animate-fade-up opacity-0" style={{ animationDelay: '200ms' }}>
         Construyendo experiencias digitales con código limpio y diseño intencional
