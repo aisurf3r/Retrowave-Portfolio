@@ -98,4 +98,4 @@ Edita el array `projects` en `src/components/ProjectGrid.tsx` para añadir tus p
 
 ## 📄 Licencia
 
-MIT © Aisurf3r
+MIT © Made with ❤️ by @aisurf3r
