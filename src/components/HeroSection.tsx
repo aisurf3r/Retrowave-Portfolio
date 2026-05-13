@@ -12,7 +12,7 @@ const HeroSection = () => (
         OpenHub
       </h1>
       <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed animate-fade-up opacity-0" style={{ animationDelay: '200ms' }}>
-        Construyendo experiencias digitales con código limpio y diseño intencional
+        In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum.
       </p>
 
       <div className="mt-10 animate-fade-up opacity-0" style={{ animationDelay: '400ms' }}>
