@@ -5,9 +5,8 @@ const IntroSection = () => (
         Un espacio para mis <span className="text-primary text-glow">ideas</span>
       </h2>
       <p className="text-muted-foreground text-lg leading-relaxed">
-        Este portal reúne mis proyectos más recientes — desde aplicaciones web 
-        hasta herramientas de desarrollo. Cada proyecto enlaza directamente a su 
-        repositorio en GitHub y, cuando existe, a su versión desplegada en producción.
+       Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. 
+        Summus brains sit​​, morbo vel maleficia?De apocalypsi gorger omero undead survivor dictum mauris. 
       </p>
     </div>
   </section>
